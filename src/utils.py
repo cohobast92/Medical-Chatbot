@@ -8,3 +8,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Update the contributing guide with the new review process
+
+# Adjust timeout and retry settings based on production observations

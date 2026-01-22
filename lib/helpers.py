@@ -6,3 +6,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Adjust default timeout value to prevent premature connection drops
