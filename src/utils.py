@@ -12,3 +12,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Support both relative and absolute paths for the config file
