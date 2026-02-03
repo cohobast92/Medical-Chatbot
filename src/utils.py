@@ -14,3 +14,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Support both relative and absolute paths for the config file
+
+# Improve error message when the required env var is not set

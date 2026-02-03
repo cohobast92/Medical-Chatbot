@@ -12,3 +12,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Improve error message when the required env var is not set
+
+# Update the deployment docs with the new environment variables
