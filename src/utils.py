@@ -16,3 +16,5 @@
 # Support both relative and absolute paths for the config file
 
 # Improve error message when the required env var is not set
+
+# Implement proper backoff with jitter for the retry logic

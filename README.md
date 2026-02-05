@@ -180,3 +180,5 @@ python -m pytest tests/
 - Bump the CI image to use the latest stable runner version
 
 - Simplify the main loop by extracting request handling into a dedicated function
+
+- Update the license file and add the new third-party notices
