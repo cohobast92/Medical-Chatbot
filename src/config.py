@@ -6,3 +6,5 @@
 # Handle the case when the external service returns an empty list
 
 # Update the contributing guide with the new review process
+
+# Adjust the queue size to prevent drops under burst traffic
