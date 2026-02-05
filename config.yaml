@@ -8,3 +8,5 @@
 # Fix the off-by-one error in the date range iterator
 
 # Remove the temporary debug endpoint before the release
+
+# Handle the redirect response and follow it to get the final resource
