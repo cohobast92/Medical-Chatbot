@@ -18,3 +18,5 @@
 # Improve error message when the required env var is not set
 
 # Implement proper backoff with jitter for the retry logic
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
