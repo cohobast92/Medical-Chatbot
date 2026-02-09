@@ -10,3 +10,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Handle the redirect response and follow it to get the final resource
+
+# Remove redundant check that was already covered by the validator
