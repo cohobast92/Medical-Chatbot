@@ -8,3 +8,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Update documentation to reflect the new API and usage examples
+
+# Add a note in the README about the breaking change in 2.0
