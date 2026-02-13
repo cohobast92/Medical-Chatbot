@@ -10,3 +10,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Update the license file and add the new third-party notices
