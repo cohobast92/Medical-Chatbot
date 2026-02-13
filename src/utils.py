@@ -20,3 +20,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Bump the dependency to fix the compatibility issue with Python 3.12
+
+# Improve performance by caching the result of the expensive lookup
