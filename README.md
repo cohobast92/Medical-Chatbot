@@ -186,3 +186,5 @@ python -m pytest tests/
 - Refactor config loading into a separate module for better testability
 
 - Improve the error recovery when the database connection is lost
+
+- Adjust buffer size for the stream reader to reduce memory usage

@@ -12,3 +12,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Support environment-specific overrides via separate config files
