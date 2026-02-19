@@ -9,3 +9,6 @@
 
 ## 2026-02-11
 - Bump dependency to get the security fix for the reported CVE
+
+## 2026-02-19
+- Refactor config loading into a separate module for better testability
