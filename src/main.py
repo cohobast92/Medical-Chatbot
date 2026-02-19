@@ -10,3 +10,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Add a note in the README about the breaking change in 2.0
+
+# Simplify the CLI by merging the two similar subcommands into one
