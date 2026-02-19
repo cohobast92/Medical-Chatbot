@@ -18,3 +18,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Fix the test that was flaky due to reliance on system time
+
+# Fix the ordering of middleware so auth runs before the handler
