@@ -16,3 +16,5 @@
 # Support environment-specific overrides via separate config files
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Simplify error messages so they are actionable for the end user
