@@ -22,3 +22,5 @@
 # Bump the dependency to fix the compatibility issue with Python 3.12
 
 # Improve performance by caching the result of the expensive lookup
+
+# Refactor the client to use async context manager for the session
