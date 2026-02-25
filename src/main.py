@@ -14,3 +14,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Support environment-specific overrides via separate config files
+
+# Remove the deprecated wrapper and use the library API directly

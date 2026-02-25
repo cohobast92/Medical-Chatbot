@@ -188,3 +188,5 @@ python -m pytest tests/
 - Improve the error recovery when the database connection is lost
 
 - Adjust buffer size for the stream reader to reduce memory usage
+
+- Update the example config with all available options and comments
