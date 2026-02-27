@@ -18,3 +18,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Simplify error messages so they are actionable for the end user
+
+# Handle connection reset by the peer without crashing the worker
