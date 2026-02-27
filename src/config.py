@@ -18,3 +18,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Add a comment explaining why we disable the linter on this line
+
+# Update the deployment docs with the new environment variables
