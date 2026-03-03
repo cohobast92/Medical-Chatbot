@@ -12,3 +12,6 @@
 
 ## 2026-02-19
 - Refactor config loading into a separate module for better testability
+
+## 2026-03-03
+- Implement basic rate limiting to avoid overwhelming the downstream service

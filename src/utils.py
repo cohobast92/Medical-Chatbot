@@ -24,3 +24,5 @@
 # Improve performance by caching the result of the expensive lookup
 
 # Refactor the client to use async context manager for the session
+
+# Simplify error messages so they are actionable for the end user

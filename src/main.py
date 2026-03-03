@@ -20,3 +20,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Handle connection reset by the peer without crashing the worker
+
+# Handle the redirect response and follow it to get the final resource
