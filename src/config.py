@@ -20,3 +20,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Update the deployment docs with the new environment variables
+
+# Refactor error handling to use a custom exception hierarchy
