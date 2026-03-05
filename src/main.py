@@ -22,3 +22,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Handle the redirect response and follow it to get the final resource
+
+# Implement a simple health check endpoint for the load balancer
