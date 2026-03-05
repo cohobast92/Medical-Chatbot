@@ -24,3 +24,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Implement a simple health check endpoint for the load balancer
+
+# Remove deprecated CLI flag and update docs to use the new option
