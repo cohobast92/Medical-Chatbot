@@ -190,3 +190,5 @@ python -m pytest tests/
 - Adjust buffer size for the stream reader to reduce memory usage
 
 - Update the example config with all available options and comments
+
+- Add a note in the README about the breaking change in 2.0
