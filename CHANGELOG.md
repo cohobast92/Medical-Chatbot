@@ -15,3 +15,6 @@
 
 ## 2026-03-03
 - Implement basic rate limiting to avoid overwhelming the downstream service
+
+## 2026-03-05
+- Improve the default config so it works out of the box for dev
