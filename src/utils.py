@@ -30,3 +30,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Update the deployment docs with the new environment variables
+
+# Add a smoke test that runs in CI to catch obvious regressions
