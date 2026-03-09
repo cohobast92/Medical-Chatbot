@@ -26,3 +26,5 @@
 # Support passing secrets via a separate file for security
 
 # Update documentation to reflect the new API and usage examples
+
+# Refactor the data layer to separate read and write paths
