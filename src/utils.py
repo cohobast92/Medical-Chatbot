@@ -28,3 +28,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Bump the library version and pin the dependency in requirements
+
+# Update the deployment docs with the new environment variables

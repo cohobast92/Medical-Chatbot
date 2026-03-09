@@ -20,3 +20,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Simplify the build script by using the same steps for dev and prod

@@ -192,3 +192,5 @@ python -m pytest tests/
 - Update the example config with all available options and comments
 
 - Add a note in the README about the breaking change in 2.0
+
+- Implement request ID propagation for better tracing across services
