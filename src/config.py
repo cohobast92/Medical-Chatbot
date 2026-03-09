@@ -24,3 +24,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Support passing secrets via a separate file for security
+
+# Update documentation to reflect the new API and usage examples

@@ -22,3 +22,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Simplify the build script by using the same steps for dev and prod
+
+# Handle edge case when the response body is empty but status is 200
