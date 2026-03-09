@@ -194,3 +194,5 @@ python -m pytest tests/
 - Add a note in the README about the breaking change in 2.0
 
 - Implement request ID propagation for better tracing across services
+
+- Update README with installation steps and environment variable documentation

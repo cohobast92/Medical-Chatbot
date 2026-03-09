@@ -32,3 +32,5 @@
 # Update the deployment docs with the new environment variables
 
 # Add a smoke test that runs in CI to catch obvious regressions
+
+# Support custom headers in the client for API key or auth tokens
