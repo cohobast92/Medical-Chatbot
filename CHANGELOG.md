@@ -18,3 +18,6 @@
 
 ## 2026-03-05
 - Improve the default config so it works out of the box for dev
+
+## 2026-03-09
+- Implement proper cleanup of resources when the process receives SIGTERM

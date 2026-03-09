@@ -22,3 +22,5 @@
 # Update the deployment docs with the new environment variables
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Support passing secrets via a separate file for security

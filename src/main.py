@@ -28,3 +28,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Refactor error handling to use a custom exception hierarchy
+
+# Implement fallback to default value when config key is missing
