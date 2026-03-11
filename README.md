@@ -198,3 +198,5 @@ python -m pytest tests/
 - Update README with installation steps and environment variable documentation
 
 - Refactor the client to use async context manager for the session
+
+- Remove hardcoded credentials and move to env-based configuration
