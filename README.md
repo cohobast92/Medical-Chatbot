@@ -200,3 +200,5 @@ python -m pytest tests/
 - Refactor the client to use async context manager for the session
 
 - Remove hardcoded credentials and move to env-based configuration
+
+- Remove the experimental feature that didn't make it into the release
