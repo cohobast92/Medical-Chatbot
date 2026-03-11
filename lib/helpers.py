@@ -24,3 +24,5 @@
 # Simplify the build script by using the same steps for dev and prod
 
 # Handle edge case when the response body is empty but status is 200
+
+# Fix the memory leak in the long-running worker process
