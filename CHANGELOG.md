@@ -21,3 +21,6 @@
 
 ## 2026-03-09
 - Implement proper cleanup of resources when the process receives SIGTERM
+
+## 2026-03-11
+- Remove hardcoded credentials and move to env-based configuration

@@ -30,3 +30,5 @@
 # Refactor the data layer to separate read and write paths
 
 # Correct the docstring to match the actual behavior of the function
+
+# Update the API docs with the new query parameters and examples
