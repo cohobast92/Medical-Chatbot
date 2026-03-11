@@ -196,3 +196,5 @@ python -m pytest tests/
 - Implement request ID propagation for better tracing across services
 
 - Update README with installation steps and environment variable documentation
+
+- Refactor the client to use async context manager for the session
