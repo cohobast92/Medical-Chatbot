@@ -17,19 +17,6 @@ This project demonstrates an end-to-end RAG system:
 
 ![Medical Chatbot Architecture](./public/architecture.png)
 
-### Architecture (Mermaid)
-
-```mermaid
-flowchart TB
-    PDF[Medical PDFs] --> DP[Ingest + chunk + embed]
-    DP --> PC[(Pinecone vector index)]
-    U[User question] --> APP[Flask web app]
-    APP --> RET[Semantic retrieval]
-    PC --> RET
-    RET --> LC[LangChain prompt assembly]
-    LC --> LLM[(LLM)]
-    LLM --> APP
-```
 
 High-level components:
 1. **Data Pipeline**: Processes source PDFs and stores vector embeddings.
